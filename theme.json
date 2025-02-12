@@ -64,7 +64,30 @@
 					"fontFamily": "\"Akatab\", sans-serif"
 				}
 			]
-		}
+		},
+		"customTemplates": [
+			{
+				"name": "single",
+				"title": "Single Post",
+				"postTypes": ["post"]
+			},
+			{
+				"name": "page",
+				"title": "Page",
+				"postTypes": ["page"]
+			},
+			{
+				"name": "archive",
+				"title": "Archive",
+				"postTypes": ["post"]
+			},
+			{
+				"name": "404",
+				"title": "404 Page",
+				"postTypes": ["page"]
+			}
+		]
+
 	},
 	"styles": {
 		"typography": {
