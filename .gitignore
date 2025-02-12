@@ -1,0 +1,24 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore WordPress core files (only track the theme)
+*.log
+node_modules/
+vendor/
+__MACOSX/
+
+# Ignore compiled CSS (if using preprocessors)
+*.map
+*.scssc
+*.sassc
+*.lessc
+
+# Ignore uploads and cache
+uploads/
+cache/
+debug.log
+
+# Ignore hidden files
+*.swp
+*.swo
