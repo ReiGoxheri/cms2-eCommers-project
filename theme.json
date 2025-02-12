@@ -51,9 +51,7 @@
 				{
 					"name": "Montserrat Medium Italic",
 					"slug": "montserrat-medium-italic",
-					"fontFamily": "\"Montserrat\", sans-serif",
-					"style": "italic",
-					"weight": "500"
+					"fontFamily": "\"Montserrat\", sans-serif"
 				},
 				{
 					"name": "Odibee Sans",
