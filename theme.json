@@ -14,22 +14,22 @@
 			"palette": [
 				{
 					"slug": "base",
-					"color": "#1e1e1e",
+					"color": "#000000",
 					"name": "Base"
 				},
 				{
 					"slug": "contrast",
-					"color": "#f0f0f0",
+					"color": "#ffffff",
 					"name": "Contrast"
 				},
 				{
 					"slug": "primary",
-					"color": "#0073aa",
+					"color": "#987FA4",
 					"name": "Primary"
 				},
 				{
 					"slug": "secondary",
-					"color": "#00a0d2",
+					"color": "#252D58",
 					"name": "Secondary"
 				}
 			]
@@ -44,16 +44,33 @@
 		"typography": {
 			"fontFamilies": [
 				{
-					"name": "System (Roboto, Segoe UI, Ubuntu)",
-					"slug": "system",
-					"fontFamily": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif"
+					"name": "Montserrat Regular",
+					"slug": "montserrat-regular",
+					"fontFamily": "\"Montserrat\", sans-serif"
+				},
+				{
+					"name": "Montserrat Medium Italic",
+					"slug": "montserrat-medium-italic",
+					"fontFamily": "\"Montserrat\", sans-serif",
+					"style": "italic",
+					"weight": "500"
+				},
+				{
+					"name": "Odibee Sans",
+					"slug": "odibee-sans",
+					"fontFamily": "\"Odibee Sans\", cursive"
+				},
+				{
+					"name": "Akatab Regular",
+					"slug": "akatab-regular",
+					"fontFamily": "\"Akatab\", sans-serif"
 				}
 			]
 		}
 	},
 	"styles": {
 		"typography": {
-			"fontFamily": "var(--wp--preset--font-family--system)"
+			"fontFamily": "var(--wp--preset--font-family--montserrat-regular)"
 		},
 		"color": {
 			"background": "var(--wp--preset--color--base)",
