@@ -1,6 +1,7 @@
-<!-- wp:template-part {"slug":"header"} /-->
+<?php get_header(); ?> <!-- Loads the header -->
 <main class="content">
     <!-- wp:post-title /-->
     <!-- wp:post-content /-->
 </main>
-<!-- wp:template-part {"slug":"footer"} /-->
+<?php get_footer(); ?> <!-- Loads the footer -->
+

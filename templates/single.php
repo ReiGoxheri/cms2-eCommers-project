@@ -1,7 +1,7 @@
-<!-- wp:template-part {"slug":"header"} /-->
+<?php get_header(); ?> <!-- Loads the header -->
 <main class="single-post">
     <!-- wp:post-title {"level":1} /-->
     <!-- wp:post-content /-->
     <!-- wp:comments /-->
 </main>
-<!-- wp:template-part {"slug":"footer"} /-->
+<?php get_footer(); ?> <!-- Loads the footer -->
