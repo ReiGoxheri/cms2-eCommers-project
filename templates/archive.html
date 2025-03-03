@@ -1,7 +1,10 @@
 <!-- wp:template-part {"slug":"header"} /-->
 <main class="archive-content">
     <!-- wp:query {"queryId":1,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc"}} -->
-
+<!-- wp:post-template -->
+<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2> <!-- This makes the title a clickable link -->
+<p><?php the_excerpt(); ?></p> <!-- Use the_excerpt() to show an excerpt instead of full content -->
+<!-- /wp:post-template -->
     <!-- /wp:query -->
 </main>
 <!-- wp:template-part {"slug":"footer"} /-->
