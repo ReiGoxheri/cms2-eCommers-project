@@ -21,16 +21,6 @@
 					"slug": "contrast",
 					"color": "#ffffff",
 					"name": "Contrast"
-				},
-				{
-					"slug": "primary",
-					"color": "#987FA4",
-					"name": "Primary"
-				},
-				{
-					"slug": "secondary",
-					"color": "#252D58",
-					"name": "Secondary"
 				}
 			]
 		},
