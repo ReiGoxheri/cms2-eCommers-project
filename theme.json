@@ -44,25 +44,25 @@
 		"typography": {
 			"fontFamilies": [
 				{
-					"name": "Poppins Regular",
-					"slug": "poppins-regular",
-					"fontFamily": "\"Poppins\", sans-serif"
+					"name": "Montserrat Regular",
+					"slug": "montserrat-regular",
+					"fontFamily": "\"Montserrat\", sans-serif"
 				},
 				{
-					"name": "Poppins Medium Italic",
-					"slug": "poppins-medium-italic",
-					"fontFamily": "\"Poppins\", sans-serif"
+					"name": "Montserrat Medium Italic",
+					"slug": "montserrat-medium-italic",
+					"fontFamily": "\"Montserrat\", sans-serif"
 				},
 				{
-					"name": "Bebas Neue",
-					"slug": "bebas-neue",
-					"fontFamily": "\"Bebas Neue\", cursive"
+					"name": "Odibee Sans",
+					"slug": "odibee-sans",
+					"fontFamily": "\"Odibee Sans\", cursive"
 				},
 				{
-					"name": "Inter Regular",
-					"slug": "inter-regular",
-					"fontFamily": "\"Inter\", sans-serif"
-				}				
+					"name": "Akatab Regular",
+					"slug": "akatab-regular",
+					"fontFamily": "\"Akatab\", sans-serif"
+				}
 			]
 		},
 		"customTemplates": [
