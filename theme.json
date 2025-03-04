@@ -21,15 +21,22 @@
 					"slug": "contrast",
 					"color": "#ffffff",
 					"name": "Contrast"
+				},
+				{
+					"slug": "primary",
+					"color": "#987FA4",
+					"name": "Primary"
+				},
+				{
+					"slug": "secondary",
+					"color": "#252D58",
+					"name": "Secondary"
 				}
 			]
 		},
 		"layout": {
 			"contentSize": "1550px",
 			"wideSize": "1800px"
-		},
-		"spacing": {
-			"units": [ "px", "em", "rem", "vh", "vw", "%" ]
 		},
 		"typography": {
 			"fontFamilies": [
