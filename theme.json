@@ -14,12 +14,12 @@
 			"palette": [
 				{
 					"slug": "base",
-					"color": "#000000",
+					"color": "#1A1A1A",
 					"name": "Base"
 				},
 				{
 					"slug": "contrast",
-					"color": "#ffffff",
+					"color": "#F5F5F5",
 					"name": "Contrast"
 				},
 				{
