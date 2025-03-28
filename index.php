@@ -7,4 +7,4 @@
  * @package cms2-theme
  * @since 1.0.0
  *
- * // adding
+ * 
