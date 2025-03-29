@@ -1,0 +1,44 @@
+/* Main content area – background color temporarily disabled */
+.entry-content {
+    /* background-color: red; */
+}
+
+/* Global template parts (like headers or footers) – background color disabled */
+.wp-block-template-part {
+    /* background-color: rebeccapurple; */
+}
+
+/* Hides the post/page title */
+.wp-block-post-title {
+    display: none;
+}
+
+/* Styles for the login header section */
+.log-in-header {
+    text-align: center;
+    padding: 2rem 0rem;
+    margin-top: 1rem;
+}
+
+/* Styling for block queries (like post lists) */
+.wp-block-query {
+    /* background-color: rebeccapurple; */
+    padding: 2rem;
+}
+
+/* Centered and enlarged text for testimonials */
+.testimonials-style {
+    text-align: center;
+    font-size: 2rem;
+}
+
+/* General font size for grouped content blocks */
+.wp-block-group {
+    font-size: 1rem;
+}
+
+/* Custom styling for post excerpts */
+.wp-block-post-excerpt__excerpt {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
